@@ -1,0 +1,1 @@
+@for /f "usebackq" %%i in (`dir /b *.ini ^| findstr /i /v excluded`) do type ..\folder.master.ini > %%i

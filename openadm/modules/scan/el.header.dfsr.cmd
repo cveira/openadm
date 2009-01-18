@@ -1,0 +1,3 @@
+      @echo.
+      @echo DFS REPLICATION EVENT LOG: ///////////////////////////////////////////////
+      @echo.

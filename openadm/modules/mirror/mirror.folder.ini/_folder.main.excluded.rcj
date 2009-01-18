@@ -1,0 +1,17 @@
+::
+:: Exclude These Directories :
+::
+	/XD		:: eXclude Directories matching these names
+		:: E:\pub\fs\workgroups\*.ra
+		:: E:\pub\fs\projects\*.ra
+		:: E:\pub\fs\users\*.ra
+		:: E:\pub\fs\org\*.ra
+		E:\pub\web\temp
+		E:\pub\web\sites\main\temp
+		E:\pub\av\engine\quarantine
+		E:\pub\av\clamwin\quarantine
+
+::
+:: Exclude These Files :
+::
+	/XF		:: eXclude Files matching these names

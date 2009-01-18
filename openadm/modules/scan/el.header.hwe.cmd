@@ -1,0 +1,3 @@
+      @echo.
+      @echo HARDWARE EVENTS EVENT LOG: ///////////////////////////////////////////////
+      @echo.

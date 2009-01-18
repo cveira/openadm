@@ -1,0 +1,1 @@
+wmic service get Name,Caption,State,StartMode
