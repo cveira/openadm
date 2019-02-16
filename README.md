@@ -9,4 +9,4 @@ The main OpenADM goals are:
 
 OpenADM is a ThinkInBig project and can be reached at: https://thinkinbig.org/.
 
-_Last releases version: v3.5b2-20090118-0 (2009/01/18)_
+_Last released version: v3.5b2-20090118-0 (2009/01/18)_
